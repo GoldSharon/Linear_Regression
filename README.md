@@ -25,4 +25,12 @@ This repository contains a Linear Regression implementation built from scratch u
 1. Clone the repository:
    ```bash
    git clone https://github.com/GoldSharon/Linear_Regression.git
-```
+2.Navigate into the project directory:
+  ```bash
+ cd Linear_Regression
+3.Install required libraries (if you haven't already):
+```bash
+  pip install numpy matplotlib
+
+
+
